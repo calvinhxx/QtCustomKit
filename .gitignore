@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# platform
+.DS_Store
+
+# build/generated
+*build-Example*
